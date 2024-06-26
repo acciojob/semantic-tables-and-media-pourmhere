@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+th {
+		text-align:left;
+		background-color: #cf3476
+	}
+	tr {
+		background-color : #cf311333
+	}
